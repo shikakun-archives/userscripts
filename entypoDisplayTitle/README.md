@@ -1,7 +1,6 @@
 # entypoDisplayTitle.user.js
 
-Entypo の Character Map でタイトルを表示します。
+Entypo のアイコンの横に名前を表示します。
 
-#### 例
+![2015-02-09 17 23 57](https://cloud.githubusercontent.com/assets/1396953/6102891/afbf86f2-b080-11e4-8505-ad39fdb6e3d1.png)
 
-![2014-06-13 14 21 30](https://cloud.githubusercontent.com/assets/1396953/3266740/9e426504-f2ba-11e3-974d-524f0aa4ad94.png)
